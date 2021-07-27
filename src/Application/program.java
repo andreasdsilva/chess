@@ -1,6 +1,7 @@
+package Application;
 import Chess.ChessMatch;
 
-public class Application {
+public class program{
 
 	public static void main(String[] args) {
 			
